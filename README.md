@@ -1,6 +1,6 @@
 # React Feedback App - version Context Provider
 
-This v3 demonstrates use of JSON Server.
+This v3 of the Feedback App demonstrates the use of JSON Server.
 
 ## Usage
 
